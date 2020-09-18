@@ -1,0 +1,32 @@
+[
+  {
+    "value": "all",
+    "label": "All",
+    "imgUrl": ""
+  },
+  {
+    "value": "pc",
+    "label": "PC",
+    "imgUrl": "iconfinder_pc_2130486.png"
+  },
+  {
+    "value": "xboxone",
+    "label": "Xbox One",
+    "imgUrl": "imgonline-com-ua-resize-Y3QOgNndOloIK1c.jpg"
+  },
+  {
+    "value": "xboxonexs",
+    "label": "Xbox Series X/S",
+    "imgUrl": "iconfinder_387_Xbox_logo_4375141.png"
+  },
+  {
+    "value": "playstation4",
+    "label": "PlayStation 4",
+    "imgUrl": "imgonline-com-ua-resize-isc4dLjGHy.jpg"
+  },
+  {
+    "value": "playstation5",
+    "label": "PlayStation 5",
+    "imgUrl": "imgonline-com-ua-resize-yFeMESkYoweMd8Wq (1).jpg"
+  }
+]

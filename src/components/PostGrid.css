@@ -1,0 +1,6 @@
+.post-grid-container {
+  background-color: #212429;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

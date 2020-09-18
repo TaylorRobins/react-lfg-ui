@@ -1,0 +1,33 @@
+.required {
+  color: red;
+}
+
+.invalid {
+  border: 1px solid red;
+}
+.top-form-bar {
+  display: flex;
+  justify-content: space-between;
+}
+.top-form-bar input,
+.top-form-bar select {
+  height: 50px;
+  margin: 0px;
+}
+.notes-box {
+  width: 100%;
+}
+.notes-box textarea,
+.notes-box label {
+  width: 100%;
+}
+
+.post-form {
+  padding: 15px;
+}
+.notes-box textarea {
+  height: 200px;
+}
+.add-edit-post-form-container {
+  width: 100%;
+}

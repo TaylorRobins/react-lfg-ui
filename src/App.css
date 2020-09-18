@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  background-color: #212429;
+  /* background-size: cover; */
+  height: 100%;
+  color: white;
+  width: 100%;
+}
+.web-app-title {
+  text-align: center;
+  width: 150px;
 }
 
 .App-logo {
@@ -35,4 +44,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+body,
+html {
+  height: 100%;
 }
